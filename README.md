@@ -30,6 +30,18 @@ This repository contains 62 unique assignments for students learning Cairo progr
 - Follow the assignment instructions in your `README.md`.
 - Ensure your code is syntactically correct and runs with Scarb.
 - Commit only your own work.
+- The Pull Request should target:master branch of the original class repository
+
+-After opening the PR:DO NOT merge it yourself
+-The instructor/admin will review and merge it into the main repository
+
+-Your submission is considered COMPLETE only when:
+
+-A Pull Request is opened to the main repository
+-Your code appears in the PR
+-The PR is visible in the original repository
+
+-If your work exists only on your own GitHub account and no PR is submitted to the main repository, your assignment will NOT be counted.
 
 # Submission Guidelines
 
